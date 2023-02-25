@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.linkedinclone.activity.MainActivity">
+
+
+    <item android:title="@string/home_page"
+        android:id="@+id/home" />
+    <item android:title="@string/profile"
+        android:id="@+id/profile" />
+    <item android:title="@string/group"
+        android:id="@+id/group"
+       />
+
+    <item android:title="@string/event"
+        android:id="@+id/event"
+       />
+    <item android:title="@string/setting"
+        android:id="@+id/setting"
+        />
+</menu>
